@@ -45,35 +45,6 @@ Both are **PHP + MySQL** CMSs. WordPress felt quicker for rebuilding my Vegely p
 | Images one level too deep (`uploads/vegely-images/vegely/`) | Moved inner `vegely` folder up to `uploads/vegely/` |
 | `vegely.local` connection refused | Started the site in **LocalWP** app (site must be **Running**) |
 
-### Group formation — job interview exercise
-
-*(Complete the interview notes table after your class round-robin or online seminar.)*
-
-**Questions I used (or plan to use):**
-
-1. How many hours per week can you commit to the group project?
-2. Do you prefer to lead, collaborate equally, or take defined tasks?
-3. How do you handle missed deadlines or uneven contribution?
-4. What availability works for meetings?
-5. What grade are you aiming for, and what does "good enough" mean to you?
-
-**Attributes I look for in a teammate:**
-
-- Reliable communication (responds within 24–48 hours)
-- Shows up prepared
-- Honest about skill gaps — willing to learn or delegate
-- Similar commitment level and grade expectations
-- Complementary skills (design, coding, writing, testing)
-
-**Interview notes:**
-
-| Name | Strengths observed | Concerns | Would I want them in my group? |
-|------|-------------------|----------|----------------------------------|
-| | | | |
-| | | | |
-| | | | |
-
-**Employment-focused reflection:** This exercise mirrored a short job interview — one minute to assess fit, communication, and work style. Specific questions (availability, conflict handling) reveal more than generic "team player" questions. I also reflected on how I present myself when others interview me: clarity about my schedule and strengths matters.
 
 ### Plugins to explore
 
