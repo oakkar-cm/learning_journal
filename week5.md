@@ -106,23 +106,6 @@ This was faster than guessing class names for the block editor theme.
 
 **Lesson:** Building the same startup in **WordPress and Joomla** taught me that a CMS is not just a template picker — it is a **stack of decisions** (content model, theme layer, plugins, hosting limits). Child themes are a small example of that: you customise **without breaking the upgrade path** of the parent. That mindset — separate what you own from what the platform owns — is what I want to carry into industry work.
 
-**Copy this post** (LinkedIn → Start a post → paste → publish):
-
-```
-Week 5 in my CMS subject at JCU: I built a WordPress child theme for my Vegely startup site.
-
-Biggest lesson so far: a real website is more than picking a theme. You need to know where your changes live — Customizer CSS vs theme files vs plugins — and what happens when the parent theme updates.
-
-Child themes let me keep Twenty Twenty-Five updatable while my brand styling (colours, navigation, buttons, typography) stays in files I control. I built the same Vegely idea in Joomla and WordPress this semester, and that forced me to think about structure, not just pages.
-
-Still learning — but this is the kind of workflow I want in industry.
-
-#WordPress #WebDevelopment #JCU #LearningInPublic
-```
-
-**After publishing:** open the post → **⋯** → **Copy link to post** → paste below (LearnJCU wants the **post** URL, not just your profile).
-
-**LinkedIn post URL:** _[paste link to the specific post after you publish]_
 
 ### What I learned
 
@@ -133,12 +116,6 @@ Still learning — but this is the kind of workflow I want in industry.
 - Moving from Customizer CSS to a child theme clarified **what belongs in the theme layer** vs what belongs in page content
 - Publishing a short LinkedIn reflection forces me to explain technical work in plain language — useful for teamwork and job applications
 
-### Submission checklist (Prac 5)
-
-- [x] Zip: `twentytwentyfive-vegely.zip`
-- [ ] LinkedIn post published on [my profile](https://www.linkedin.com/in/oakkar-phyoe-206375324/) + **post URL** added above
-- [x] Learning journal: this entry → https://github.com/oakkar-cm/learning_journal/blob/main/week5.md
-- [ ] (Optional) Upload and activate child theme on https://vegely.site.je/wp/
 
 ### Links
 
