@@ -30,8 +30,8 @@
 
 ### Communication
 
-**Primary:** Slack private channel for stand-ups, questions, and GitHub/Trello alerts once integrated.  
-**Secondary:** Discord for informal / quick messages.  
+**Primary:** We used discord as primary because we have a problem with slack notification system. 
+**Secondary:** Slack.  
 **Expectation:** reply within about 24 hours on weekdays so nobody is blocked.
 
 ### Version control — GitHub
