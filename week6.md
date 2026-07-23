@@ -30,7 +30,7 @@
 
 ### Communication
 
-**Primary:** We used discord as primary because we have a problem with slack notification system. 
+**Primary:** We used discord as primary because we have a problem with slack notification system.    
 **Secondary:** Slack.  
 **Expectation:** reply within about 24 hours on weekdays so nobody is blocked.
 
