@@ -59,18 +59,6 @@ I used myself as the test (same laptop, same kind of task).
 **How I decide if my idea worked:**  
 Focused mode should be **faster** and have **fewer interruptions**. If only one of those improves, it’s mixed. If focused mode is worse, my idea was wrong.
 
-### Results
-
-| What I measured | Distracted (A) | Focused (B) |
-|-----------------|----------------|-------------|
-| Time (minutes) | RESULT_A_TIME | RESULT_B_TIME |
-| Interruptions | RESULT_A_INT | RESULT_B_INT |
-| Focus score (1–5) | RESULT_A_RATE | RESULT_B_RATE |
-
-**Did my idea work?** SUPPORTED / NOT SUPPORTED / MIXED  
-
-**What happened in plain words:**  
-(Write 2–3 sentences here after you finish the test. Example: “In distracted mode I took 31 minutes and checked my phone a lot. In focused mode I finished in 18 minutes and only got distracted once.”)
 
 ### What this means for me
 
