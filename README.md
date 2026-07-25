@@ -11,6 +11,7 @@ A weekly log of the projects, lessons, and reflections from my web development c
 - [Week 5 â€” WordPress child themes (Prac 5)](./week5.md)
 - [Week 6 â€” Group setup (Team Charlie)](./week6.md)
 - [Week 7 — PHP (Prac 7)](./week7.md)
+- [Week 8 — Learning experiment & presentation rehearsal](./week8.md)
 
 ---
 
